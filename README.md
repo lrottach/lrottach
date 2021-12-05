@@ -32,7 +32,8 @@ List<string> languages = new List<string>()
 List<string> learning = new List<string>()
         {
             "TypeScript",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            ".NET Blazor"
         };
 ```
 
