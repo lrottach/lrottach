@@ -1,5 +1,7 @@
 ### Welcome. Nice to meet you. 👋
-Random dude, living in Switzerland near Zurich. Having fun working with Microsoft Azure and automating all kinds of stuff.
+Cloud consultant and automation enthusiast based in Switzerland.  
+Passionate about leveraging cutting-edge technologies such as Azure Functions, Microsoft Graph and Infrastructure as Code (IaC) solutions like Azure Bicep and Terraform to deliver efficient and reliable cloud solutions. Skilled in programming and scripting with .NET and PowerShell.  
+Join me on my journey of automating everything in the cloud.
 
 ### Technologies
 ```csharp
