@@ -5,7 +5,7 @@ Join me on my journey of automating everything in the cloud.
 
 ### Technologies
 ```csharp
-List<string> technologies = new List<string>()
+List<string> technologies = new List<string>
         {
             "Azure Infrastructure",
             "Azure DevOps",
@@ -18,7 +18,7 @@ List<string> technologies = new List<string>()
 
 ### Languages
 ```csharp
-List<string> languages = new List<string>()
+List<string> languages = new List<string>
         {
             "PowerShell",
             "C#",
@@ -31,7 +31,7 @@ List<string> languages = new List<string>()
 
 ### Currently learning
 ```csharp
-List<string> learning = new List<string>()
+List<string> learning = new List<string>
         {
             "TypeScript",
             "Azure Cosmos DB",
