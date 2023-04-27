@@ -33,9 +33,7 @@ List<string> languages = new List<string>
 ```csharp
 List<string> learning = new List<string>
         {
-            "TypeScript",
-            "Azure Cosmos DB",
-            ".NET Blazor"
+            "Go"
         };
 ```
 
